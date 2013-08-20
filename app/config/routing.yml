@@ -1,0 +1,4 @@
+project_blog:
+    resource: "@ProjectBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+

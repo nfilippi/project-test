@@ -1,0 +1,7 @@
+parameters:
+#    project_blog.example.class: Project\BlogBundle\Example
+
+services:
+#    project_blog.example:
+#        class: %project_blog.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
